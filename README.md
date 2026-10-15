@@ -19,7 +19,6 @@
 - 🛡️ **Security-first** IT professional: CISSP, SOC operations, cloud security
 - ☁️ Hands-on across **cloud, identity, systems administration and networking**
 - 🎓 **Microsoft Certified Trainer**: I love turning complex tech into simple steps
-- 🔨 Currently building **20 open-source projects** by the end of 2026, all on free, open tools
 
 ### 🏅 Certifications
 ![CISSP](https://img.shields.io/badge/CISSP-ISC2-1f6f3f?style=flat-square)
@@ -43,16 +42,6 @@
 **Cloud & DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **Monitoring & Networking:** ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
-### 🔨 Building now
-| Project | What it does |
-|---------|--------------|
-| 🌐 **ashe-portfolio** | My personal site: fast, accessible, strict security headers |
-| 🔍 **web-security-checker** | Grades any website's TLS, security headers and CSP |
-| 🎯 **sigma-detection-rules** | Vendor-neutral threat detections mapped to MITRE ATT&CK |
-| 🤖 **local-rag-it-assistant** | Private, offline AI assistant over public IT & security docs |
-
-<sub>More coming every week, follow along! ⭐</sub>
 
 ---
 <p align="center"><i>"Secure by design, simple by default."</i></p>
